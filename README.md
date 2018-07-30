@@ -5,10 +5,14 @@ This is a simple Webpack setup for automating the build of html pages using sass
 
 ## Instructions
 Run the local server (development mode)
-> npm run start
+~~~~
+npm run start
+~~~~
 
 To build the distribution (production mode)
-> npm run build
+~~~~
+npm run build
+~~~~
 
 The build folder can then be published via ftp.
 
