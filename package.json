@@ -8,8 +8,13 @@
     "build": "webpack --mode production"
   },
   "keywords": [],
+  "homepage": "https://github.com/jsguerra/webpack-4-build.git",
   "author": "Jose Guerra",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsguerra/webpack-4-build.git"
+  },
   "browserslist": [
     "last 2 versions"
   ],
